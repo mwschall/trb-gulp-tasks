@@ -1,0 +1,31 @@
+{
+  "name": "trb-gulp-tasks",
+  "version": "0.0.1",
+  "description": "Common Gulp Tasks",
+  "main": "index.js",
+  "author": "Matthew Schallberger",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwschall/trb-gulp-tasks"
+  },
+  "dependencies": {
+    "babelify": "^6.1.2",
+    "browser-sync": "^2.7.5",
+    "browserify": "^10.2.1",
+    "gulp": "^3.8.11",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-strip-debug": "^1.0.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.4",
+    "lodash": "^3.9.3",
+    "pretty-hrtime": "^1.0.0",
+    "through2": "^0.6.5",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.1"
+  }
+}
